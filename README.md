@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonada por tecnologia e sempre procuro resolver os problemas do dia-a-dia usando alguma coisa tecnologica. <br/>
-Sou FrontEnd Developer com 5 anos de experiência em agências digitais e atualmente estudando pra me tornar Fullstack. :computer:
+Sou FrontEnd Developer com 5 anos de experiência em agências digitais e atualmente estudando na **Rocketseat** pra me tornar Fullstack. :computer:
 
  :rocket:  &nbsp; Não estou trabalhando no momento mas procurando oportunidades home office
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos com NodeJS, ReactJS e React Native para melhorar minhas habilidades
